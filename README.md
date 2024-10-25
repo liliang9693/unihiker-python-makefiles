@@ -25,5 +25,7 @@ pip3.12 list
 
 ```
 
-Reference tutorial: https://www.dfrobot.com/forum/topic/322359
+- Reference tutorial: https://www.dfrobot.com/forum/topic/322359
+
+- Python package source file download location: https://www.python.org/ftp/python/
 
