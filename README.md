@@ -25,7 +25,9 @@ pip3.12 list
 
 ```
 
+
 - Reference tutorial: https://www.dfrobot.com/forum/topic/322359
 
 - Python package source file download location: https://www.python.org/ftp/python/
 
+- File Description: .tgz is the source file downloaded from python.org, .tar.gz is the compiled file that can be installed on the UNIHIKER.
