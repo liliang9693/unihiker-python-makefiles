@@ -1,3 +1,7 @@
+
+> After testing, I found that using the pyenv tool to manage and switch Python versions is the most convenient.  
+> Details: https://github.com/liliang9693/unihiker-pyenv-python
+
 # unihiker-python-makefiles
 Store multiple Python compiled files suitable for the UNIHIKER system.
 
