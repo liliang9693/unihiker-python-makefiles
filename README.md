@@ -71,7 +71,8 @@ pip3.12 list
 ---
 
 
-
+> 经过测试发现使用pyenv这个工具来管理和切换Python版本最方便。
+> 详情：https://github.com/liliang9693/unihiker-pyenv-python
 
 # 说明
 - 本仓库仅适合行空板M10
